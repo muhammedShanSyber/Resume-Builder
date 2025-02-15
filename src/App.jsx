@@ -13,7 +13,6 @@ function App() {
     <div className="flex h-screen">
       <LeftSideBar />
       <CenterCanvas />
-
       <RightSideBar />
     </div>
   );
